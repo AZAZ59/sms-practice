@@ -1,0 +1,8 @@
+.main_page {
+  padding: 70px 15px;
+  text-align: center;
+}
+.table td,
+  .table th {
+    text-align: center;
+  }
