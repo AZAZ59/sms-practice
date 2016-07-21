@@ -1,0 +1,5 @@
+/home/azaz/Рабочий стол/sms/server/server3/server3/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/azaz/Рабочий стол/sms/server/server3/server3/bin/server3.dll.mdb
+/home/azaz/Рабочий стол/sms/server/server3/server3/bin/server3.dll
+/home/azaz/Рабочий стол/sms/server/server3/server3/obj/Debug/server3.dll
+/home/azaz/Рабочий стол/sms/server/server3/server3/obj/Debug/server3.dll.mdb

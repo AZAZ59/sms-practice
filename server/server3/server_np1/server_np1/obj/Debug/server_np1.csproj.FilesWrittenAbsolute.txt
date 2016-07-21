@@ -1,0 +1,5 @@
+/home/azaz/Рабочий стол/sms/server/server3/server_np1/server_np1/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/azaz/Рабочий стол/sms/server/server3/server_np1/server_np1/bin/server_np1.dll.mdb
+/home/azaz/Рабочий стол/sms/server/server3/server_np1/server_np1/bin/server_np1.dll
+/home/azaz/Рабочий стол/sms/server/server3/server_np1/server_np1/obj/Debug/server_np1.dll
+/home/azaz/Рабочий стол/sms/server/server3/server_np1/server_np1/obj/Debug/server_np1.dll.mdb

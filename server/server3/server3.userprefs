@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="server3/server3.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="env" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="server3/web.config">
+    <Files>
+      <File FileName="server3/web.config" Line="36" Column="51" />
+      <File FileName="server3/App_Code/MyHandlerAjax.cs" Line="24" Column="35" />
+      <File FileName="server3/UserService.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
