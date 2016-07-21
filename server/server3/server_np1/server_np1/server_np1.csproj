@@ -54,7 +54,6 @@
     <Compile Include="testReq.ashx.cs">
       <DependentUpon>testReq.ashx</DependentUpon>
     </Compile>
-    <Compile Include="JsonHelper.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
